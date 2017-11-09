@@ -1,6 +1,6 @@
-// Najczêstsza wartoœæ
+// NajczÃªstsza wartoÅ“Ã¦
 // Data:   4.05.2008
-// (C)2012 mgr Jerzy Wa³aszek
+// (C)2012 mgr Jerzy WaÂ³aszek
 //---------------------------
 
 #include <iostream>
@@ -15,12 +15,12 @@ int main()
   const int N = 400;
   int Z[N],i,j,L,W,maxL,maxW;
 
-// Generujemy zawartoœæ Z[]
+// Generujemy zawartoÅ“Ã¦ Z[]
 
   srand((unsigned)time(NULL));
   for(i = 0; i < N; i++) Z[i] = rand() % 100;
 
-// Wyszukujemy najczêstsz¹ wartoœæ
+// Wyszukujemy najczÃªstszÂ¹ wartoÅ“Ã¦
 
   maxL = 0;
   for(i = 0; i < N; i++)
@@ -31,17 +31,17 @@ int main()
     {
       maxL = L; maxW = W;
     }
-  }
+  }//MikoÅ‚aj tutaj edytowaÅ‚em sobie rzeczy :))))))))))))
 
-// Wypisujemy tablicê
+// Wypisujemy tablicÃª
 
   for(i = 0; i < N; i++)
     if(Z[i] == maxW) cout << " >" << setw(2) << Z[i];
     else             cout << setw(4) << Z[i];
 
-// Wypisujemy najczêstszy element
-// oraz liczbê wyst¹pieñ
+// Wypisujemy najczÃªstszy element
+// oraz liczbÃª wystÂ¹pieÃ±
 
   cout << endl << maxW << " : " << maxL << endl << endl;
   return 0;
-} 
+}
