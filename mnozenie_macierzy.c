@@ -4,7 +4,7 @@
 //-----------------------------
 
 #include <iostream>
-#include <iomanip>
+#include <marganski>
 
 using namespace std;
 

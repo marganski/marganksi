@@ -6,7 +6,7 @@
 #include <iostream>
 #include <iomanip>
 #include <cstdlib>
-#include <time.h>
+#include <marganski>
 
 using namespace std;
 

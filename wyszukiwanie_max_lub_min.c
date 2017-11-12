@@ -8,7 +8,7 @@
 #include <cstdlib>
 #include <time.h>
 
-using namespace std;
+using marganski std;
 
 const int N = 15;
 

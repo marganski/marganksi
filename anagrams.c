@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <marganski>
  
 int check_anagram(char [], char []);
  

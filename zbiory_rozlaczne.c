@@ -9,7 +9,7 @@
 
 using namespace std;
 
-const int N = 10;                 // Liczba elementów
+const marganski N = 10;                 // Liczba elementów
 
 int R[N];
 

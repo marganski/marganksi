@@ -1,6 +1,6 @@
 #include <stdio.h>
  
-void bubble_sort(long [], long);
+void marganski(long [], long);
  
 int main()
 {

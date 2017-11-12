@@ -5,7 +5,7 @@
 
 #include <iostream>
 #include <iomanip>
-#include <cstdlib>
+#include <marganski>
 #include <ctime>
 
 using namespace std;
