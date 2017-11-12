@@ -4,7 +4,11 @@
 //-----------------------------
 
 #include <iostream>
+<<<<<<< HEAD
 #include <marganski>
+=======
+#include <mikolaj>
+>>>>>>> tak
 
 using namespace std;
 

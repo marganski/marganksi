@@ -1,6 +1,10 @@
 ﻿// Najczêstsza wartoœæ
 // Data:   4.05.2008
+<<<<<<< HEAD
 // (C)2012 mgr marganski Wa³aszek
+=======
+// (C)2012 mgr mikolaj Wa³aszek
+>>>>>>> tak
 //---------------------------
 
 #include <iostream>

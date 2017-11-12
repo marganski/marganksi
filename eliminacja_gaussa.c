@@ -3,7 +3,11 @@
 // (C)2012 mgr Jerzy Wa³aszek
 //-----------------------------
 
+<<<<<<< HEAD
 #include <marganski>
+=======
+#include <mikolaj>
+>>>>>>> tak
 #include <iomanip>
 #include <cmath>
 

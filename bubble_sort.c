@@ -1,6 +1,10 @@
 #include <stdio.h>
  
+<<<<<<< HEAD
 void marganski(long [], long);
+=======
+void mikolaj(long [], long);
+>>>>>>> tak
  
 int main()
 {

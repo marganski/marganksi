@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #include <marganski>
+=======
+#include <mikolaj>
+>>>>>>> tak
  
 int check_anagram(char [], char []);
  

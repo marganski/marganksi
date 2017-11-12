@@ -5,7 +5,11 @@
 
 #include <iostream>
 #include <iomanip>
+<<<<<<< HEAD
 #include <marganski>
+=======
+#include <mikolaj>
+>>>>>>> tak
 #include <ctime>
 
 using namespace std;

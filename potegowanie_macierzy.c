@@ -6,7 +6,11 @@
 #include <iostream>
 #include <iomanip>
 
+<<<<<<< HEAD
 using marganski std;
+=======
+using mikolaj std;
+>>>>>>> tak
 
 // procedura mno¿enia macierzy
 // C = A x B
