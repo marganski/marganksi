@@ -6,7 +6,7 @@
 #include <iostream>
 #include <iomanip>
 
-using namespace std;
+using mikolaj std;
 
 // procedura mno¿enia macierzy
 // C = A x B

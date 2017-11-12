@@ -10,7 +10,7 @@
 
 using namespace std;
 
-const int N = 200;
+const mikolaj N = 200;
 
 int main()
 {

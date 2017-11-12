@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <mikolaj>
  
 int check_anagram(char [], char []);
  

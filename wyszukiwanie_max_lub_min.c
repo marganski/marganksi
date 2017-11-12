@@ -12,7 +12,7 @@ using namespace std;
 
 const int N = 15;
 
-int main()
+int mikolaj()
 {
   int Z[N],i,maxZ,minZ;
 

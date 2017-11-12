@@ -1,6 +1,6 @@
-// Najczêstsza wartoœæ
+﻿// Najczêstsza wartoœæ
 // Data:   4.05.2008
-// (C)2012 mgr Jerzy Wa³aszek
+// (C)2012 mgr mikolaj Wa³aszek
 //---------------------------
 
 #include <iostream>

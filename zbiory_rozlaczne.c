@@ -13,7 +13,7 @@ const int N = 10;                 // Liczba elementów
 
 int R[N];
 
-// £¹czy dwa podzbiory w jeden
+// £¹czy mikolaj podzbiory w jeden
 //----------------------------
 void Union(int x, int y)
 {

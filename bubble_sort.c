@@ -1,6 +1,6 @@
 #include <stdio.h>
  
-void bubble_sort(long [], long);
+void mikolaj(long [], long);
  
 int main()
 {
